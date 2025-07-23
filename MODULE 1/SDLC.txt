@@ -1,1 +1,199 @@
-IT HAS 7 STEPS TO DESIGN A NETWORK
+
+ 1. SDLC (Software Development Life Cycle)
+
+Definition: Structured process used to develop software efficiently.
+
+Why & Where: Ensures quality, predictability; used in all software projects.
+
+Phases:
+
+Requirement Gathering:
+
+Functional Requirements – what the system should do.
+
+Non-functional – performance, usability, reliability, etc.
+
+
+Design:
+
+UML diagrams – Structural (class, object), Behavioral (sequence, activity).
+
+
+ Development: Coding the software.
+
+ Testing: Verify system functionality.
+
+ Deployment: Release to production.
+
+ Maintenance: Bug fixes, updates.
+
+
+SDLC Models:
+
+ Waterfall – Linear, simple but rigid.
+
+ V-Model – Testing at each stage.
+
+ Spiral – Risk-driven, iterative.
+
+ Iterative – Builds version by version.
+
+ Agile – Fast, adaptive, customer-focused.
+
+
+Documentation:
+
+SRS (Software Requirement Specification)
+
+Design Docs
+
+Test Plans
+
+User Manuals
+
+
+
+
+ 2. Software Testing Methodology
+
+Goal: Ensure quality, detect bugs, validate requirements.
+
+STLC (Software Testing Life Cycle):
+
+Test Planning → Test Design → Execution → Defect Reporting → Closure
+
+
+Testing Elements:
+
+  Test Scenario – What to test.
+
+  Test Case – Steps to test.
+
+  Test Suite – Group of test cases.
+
+  Test Plan – Strategy for testing.
+
+
+Testing Levels:
+
+ Unit Testing – Individual components.
+
+ Integration Testing – Module interactions.
+
+ System Testing – Full application.
+
+ Acceptance Testing – By client/end-user.
+
+
+Testing Types:
+
+ Functional – Based on requirements.
+
+ Non-Functional – Performance, security, etc.
+
+
+Techniques:
+
+ Black-box – Test without seeing code.
+
+ White-box – Internal logic tested.
+
+ Grey-box – Mix of both.
+
+
+Tools:
+
+ Selenium – Automation
+
+ JUnit – Unit testing
+
+ Postman – API testing
+
+ LoadRunner – Load testing
+
+
+
+ 3. Agile Methodology
+
+Core Focus: Fast delivery, team collaboration, responding to change.
+
+12 Agile Principles & 4 Pillars:
+
+Individuals, Working Software, Customer Collaboration, Responding to Change.
+
+
+Phases in Agile: Plan → Design → Develop → Test → Deliver → Review
+
+Comparisons:
+
+Waterfall vs Agile → Linear vs Iterative
+
+V-Model vs Agile → Rigid vs Flexible
+
+Incremental vs Iterative → Partial delivery vs Improvement over versions
+
+
+Agile Frameworks:
+
+Scrum: Most used.
+
+Kanban: Visual task boards.
+
+XP (Extreme Programming): High-quality code.
+
+SAFe: Scaled Agile for large teams.
+
+
+Scrum Components:
+
+Roles: Product Owner, Scrum Master, Dev Team
+
+Events: Sprint Planning, Daily Standups, Sprint Review, Retrospective
+
+Artifacts: Product Backlog, Sprint Backlog, Burndown Chart
+
+
+
+ 4. CI/CD (Continuous Integration / Deployment)
+
+CI/CD Concepts:
+
+CI – Frequently integrating code
+
+CD – Continuous Delivery/Deployment
+
+Traditional → Manual steps
+
+CI/CD → Automated & Faster
+
+
+Pipeline Steps:
+
+ Code Commit → Build → Test → Deploy → Monitor
+
+
+Popular Tools:
+
+ Jenkins, GitHub Actions, Azure DevOps, GitLab CI/CD
+
+
+
+ 5. Code Quality
+
+Key Focus:
+
+ Unit Testing: Testing small code parts
+
+ Code Coverage: How much code is tested
+
+ Static Code Analysis: Check code without running
+
+Tools: SonarQube, Linting tools
+
+
+
+
+
+
+
+
