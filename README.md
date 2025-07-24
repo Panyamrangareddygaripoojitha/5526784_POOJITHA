@@ -1,2 +1,1 @@
 # 5526784_POOJITHA
-![alt text](<GREAT LEARNING(AGILE).png>)
